@@ -1,6 +1,6 @@
 ---
 title: Portfolio
 ---
-<p>Email: fs10vl@leeds.ac.uk</p></center>
+<p>Email: fs10vl@leeds.ac.uk</p>
 
-Agent-based model
+<h1>Agent-based model<h1>
