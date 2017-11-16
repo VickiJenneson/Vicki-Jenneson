@@ -1,5 +1,5 @@
 ---
-title: Portfolio ¦ Vicki Jenneson
+title: Portfolio 
 ---
      
 <p>Name: Vicki Jenneson</p>
