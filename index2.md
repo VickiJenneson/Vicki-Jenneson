@@ -1,6 +1,13 @@
 ---
 title: Portfolio
 ---
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Vicki Jenneson</h1>
+      <h2 class="project-tagline"></h2>
+     
+<p>Name: Vicki Jenneson</p>
 <p>Email: fs10vl@leeds.ac.uk</p>
 
 <h1>Projects<h1>
